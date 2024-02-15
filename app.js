@@ -12,7 +12,6 @@ const fileUpload = require("express-fileupload");
 const rateLimiter = require("express-rate-limit");
 const helmet = require("helmet");
 const xss = require("xss-clean");
-const cors = require("cors");
 const mongoSanitize = require("express-mongo-sanitize");
 
 const cloudinary = require("cloudinary").v2;
@@ -48,20 +47,7 @@ app.use(
     })
 );
 app.use(helmet());
-// app.use(
-//     cors({
-//         origin: "http://localhost:5173",
-//         credentials: "true",
-//     })
-// );
 app.use(function (req, res, next) {
-    // const allowedOrigins = ["http://localhost:5173", "http://192.168.0.106:5173"];
-    // const origin = req.headers.origin;
-
-    // if (allowedOrigins.includes(origin)) {
-    //     res.setHeader("Access-Control-Allow-Origin", origin);
-    // }
-
     const origin = process.env.CLIENT_URL;
 
     res.setHeader("Access-Control-Allow-Origin", origin);
