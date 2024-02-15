@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Adidas Football Boots - Model 1",
+        "price": 79.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695179040/sports-shop/tmp-1-1695179037212_uatcpc.webp",
+        "company": "adidas",
+        "description": "Step up your game with Adidas Football Boots - Model 1. Engineered for speed, agility, and control, these boots will elevate your performance on the field.",
+        "category": "boots"
+    },
+    {
+        "name": "Nike Football Boots - Model 1",
+        "price": 84.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695179132/sports-shop/tmp-1-1695179130451_o7ulmz.jpg",
+        "company": "nike",
+        "description": "Experience the pinnacle of football with Nike Football Boots - Model 1. Designed for precision and power, they're the choice of champions.",
+        "category": "boots"
+    },
+    {
+        "name": "Puma Football Boots - Model 1",
+        "price": 77.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695179114/sports-shop/tmp-1-1695179111026_ot3hgr.png",
+        "company": "puma",
+        "description": "Unleash your potential with Puma Football Boots - Model 1. These boots are built for speed and accuracy, making you unstoppable on the pitch.",
+        "category": "boots"
+    },
+    {
+        "name": "Adidas Football Boots - Model 2",
+        "price": 82.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695179063/sports-shop/tmp-1-1695179061496_kpliae.jpg",
+        "company": "adidas",
+        "description": "Dominate the soccer field with Adidas Football Boots - Model 2. Precision control and exceptional durability make these boots a game-changer.",
+        "category": "boots"
+    },
+    {
+        "name": "Nike Football Boots - Model 2",
+        "price": 87.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695179151/sports-shop/tmp-1-1695179150176_jqww4m.webp",
+        "company": "nike",
+        "description": "Achieve greatness with Nike Football Boots - Model 2. These boots are engineered to enhance your performance, giving you an edge on the field.",
+        "category": "boots"
+    },
+    {
+        "name": "Puma Football Boots - Model 2",
+        "price": 80.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695179167/sports-shop/tmp-1-1695179165371_kb6plf.jpg",
+        "company": "puma",
+        "description": "Elevate your football game with Puma Football Boots - Model 2. Designed for power and accuracy, they're the boots of champions.",
+        "category": "boots"
+    },
+    {
+        "name": "Adidas Football Boots - Model 3",
+        "price": 81.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695179083/sports-shop/tmp-1-1695179081577_c4eulq.jpg",
+        "company": "adidas",
+        "description": "Experience football like never before with Adidas Football Boots - Model 3. These boots offer precision control and unmatched quality.",
+        "category": "boots"
+    },
+    {
+        "name": "Nike Football Boots - Model 3",
+        "price": 86.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695179191/sports-shop/tmp-1-1695179189779_zd2oj8.webp",
+        "company": "nike",
+        "description": "Take your football skills to new heights with Nike Football Boots - Model 3. Designed for excellence, they're the boots of champions.",
+        "category": "boots"
+    },
+    {
+        "name": "Puma Football Boots - Model 3",
+        "price": 79.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695179220/sports-shop/tmp-1-1695179219294_wldpm7.jpg",
+        "company": "puma",
+        "description": "Step onto the pitch with confidence in Puma Football Boots - Model 3. These boots are designed for speed and precision, making you unstoppable.",
+        "category": "boots"
+    }
+]

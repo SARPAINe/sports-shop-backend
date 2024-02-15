@@ -1,0 +1,74 @@
+[
+    {
+        "name": "adidas football jersey - model 1",
+        "price": 34.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695178183/sports-shop/tmp-1-1695178181776_emp02m.webp",
+        "company": "adidas",
+        "description": "Get ready for the game with the adidas football jersey - Model 1. Designed for comfort and style, it's a must-have for football enthusiasts.",
+        "category": "jersey"
+    },
+    {
+        "name": "nike football jersey - model 1",
+        "price": 39.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695178209/sports-shop/tmp-1-1695178207596_p4n04d.webp",
+        "company": "nike",
+        "description": "Elevate your football look with the nike football jersey - Model 1. It's the perfect combination of performance and fashion for the field.",
+        "category": "jersey"
+    },
+    {
+        "name": "puma football jersey - model 1",
+        "price": 32.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695178234/sports-shop/tmp-1-1695178233195_juc6nz.avif",
+        "company": "puma",
+        "description": "Show your football passion with the puma football jersey - Model 1. Designed for style and performance, it's the jersey of choice.",
+        "category": "jersey"
+    },
+    {
+        "name": "adidas football jersey - model 2",
+        "price": 37.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695178280/sports-shop/tmp-1-1695178278043_zp3haq.jpg",
+        "company": "adidas",
+        "description": "Stand out on the field with the adidas football jersey - Model 2. It offers comfort, style, and unbeatable performance.",
+        "category": "jersey"
+    },
+    {
+        "name": "nike football jersey - model 2",
+        "price": 42.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695178304/sports-shop/tmp-1-1695178302515_v7ppl1.webp",
+        "company": "nike",
+        "description": "Make a statement with the nike football jersey - Model 2. It's the jersey that combines performance and flair for football lovers.",
+        "category": "jersey"
+    },
+    {
+        "name": "puma football jersey - model 2",
+        "price": 35.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695178338/sports-shop/tmp-1-1695178334987_r4zso5.webp",
+        "company": "puma",
+        "description": "Express your football style with the puma football jersey - Model 2. Designed for both fashion and function on the pitch.",
+        "category": "jersey"
+    },
+    {
+        "name": "adidas football jersey - model 3",
+        "price": 36.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695178362/sports-shop/tmp-1-1695178360642_qrap35.jpg",
+        "company": "adidas",
+        "description": "Experience football like never before with the adidas football jersey - Model 3. It's a perfect blend of comfort and performance.",
+        "category": "jersey"
+    },
+    {
+        "name": "nike football jersey - model 3",
+        "price": 41.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695178402/sports-shop/tmp-1-1695178400301_laxok9.jpg",
+        "company": "nike",
+        "description": "Embrace football with the nike football jersey - Model 3. Designed for style and agility, it's the jersey for champions.",
+        "category": "jersey"
+    },
+    {
+        "name": "puma football jersey - model 3",
+        "price": 34.99,
+        "image": "https://res.cloudinary.com/dxtahvyx2/image/upload/v1695178436/sports-shop/tmp-1-1695178435347_af50y6.jpg",
+        "company": "puma",
+        "description": "Show your passion for football with the puma football jersey - Model 3. It's designed for comfort and style on the pitch.",
+        "category": "jersey"
+    }
+]
