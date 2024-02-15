@@ -165,11 +165,13 @@ const logout = async (req, res) => {
     res.cookie("accessToken", "logout", {
         httpOnly: true,
         expires: new Date(Date.now()),
+        sameSite: "none",
     });
 
     res.cookie("refreshToken", "logout", {
         httpOnly: true,
         expires: new Date(Date.now()),
+        sameSite: "none",
     });
 
     res.status(StatusCodes.OK).json({ msg: "user logged out!" });
